@@ -10,7 +10,7 @@
 
 ![image](https://github.com/achmad-firdaus/Cyber-Security/assets/77251566/b674c1d1-b1b7-4053-a945-a7f280c6a2b9)
 
-Pada bagian ini saya akan sedikit menjelaskan tentang Apple's App-Site Association (ASA), apa itu ? apakah harus dapat diakses ? apakah itu adalah robots.txt yang baru ?
+Pada bagian ini saya akan sedikit menjelaskan tentang Apple's App-Site Association (ASA), apa itu ? ,apakah harus dapat diakses ? ,apakah itu adalah robots.txt yang baru ? ,apakah itu termasuk kerentanan dalam sistem ?
 
 
 Tags:
@@ -26,6 +26,7 @@ Tags:
   - [Where Is the file and What Is the file name ?](#where-is-the-file-and-what-is-the-file-name-)
   - [Does It have to be accessible via HTTPS ?](#does-it-have-to-be-accessible-via-https-)
   - [Is Apple's App-Site Association (ASA) the new robots.txt ?](#is-apples-app-site-association-asa-the-new-robotstxt-)
+  - [Is Apple's App-Site Association (ASA) a vulnerability in the system ?](#is-apples-app-site-association-asa-a-vulnerability-in-the-system-)
 
 
 
@@ -60,7 +61,12 @@ File robots.txt digunakan untuk memberikan instruksi kepada perayap web (crawler
 
     Jadi, meskipun keduanya berhubungan dengan pengaturan situs web, file robots.txt berkaitan dengan instruksi untuk perayap web (crawlers), sedangkan ASA berkaitan dengan integrasi aplikasi iOS dan situs web.
 
- 
 
+
+  - #### Is Apple's App-Site Association (ASA) a vulnerability in the system ?
+    Nope. <br>
+    File Apple's App-Site Association (ASA) bukanlah sebuah kerentanan dalam konteks keamanan. ASA adalah bagian dari kerangka kerja yang disediakan oleh Apple untuk menghubungkan aplikasi iOS dengan situs web atau aplikasi web. File ASA, yang berisi informasi konfigurasi, dihosting di situs web pengembang dan digunakan untuk mengatur interaksi antara aplikasi iOS dan situs web terkait.
+
+    Kerentanan keamanan mungkin muncul jika ada masalah dalam implementasi atau konfigurasi ASA yang dapat dieksploitasi. Namun, ASA sendiri bukanlah kerentanan. Penting untuk memastikan bahwa konfigurasi dan implementasi ASA dilakukan dengan baik dan mengikuti panduan yang ditetapkan oleh Apple untuk meminimalkan risiko keamanan potensial.
 
 
