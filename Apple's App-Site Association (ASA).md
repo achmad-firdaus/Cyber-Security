@@ -9,7 +9,7 @@
 
 
 
-Pada bagian ini saya akan sedikit menjelaskan tentang Apple's App-Site Association (ASA), apakah page tersebut harus dipublikasi ? ,apakah sama dengan file robots.txt ?
+Pada bagian ini saya akan sedikit menjelaskan tentang Apple's App-Site Association (ASA), apa itu ? apakah harus dapat diakses ? apakah itu adalah robots.txt yang baru ?
 
 
 Tags:
