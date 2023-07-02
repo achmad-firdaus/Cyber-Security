@@ -14,7 +14,9 @@ Pada bagian ini saya akan sedikit menjelaskan tentang Apple's App-Site Associati
 
 Tags:
 ![](https://img.shields.io/badge/Apple's_App_Site_Association-(ASA)-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a&color=2ba9bc)
-
+<a href="https://developer.apple.com/library/archive/documentation/General/Conceptual/AppSearch/UniversalLinks.html">
+![](https://img.shields.io/badge/-Reference-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2ba9bc&width=)
+</a>
 
 
 ### LIST
@@ -56,3 +58,8 @@ File robots.txt digunakan untuk memberikan instruksi kepada perayap web (crawler
     Sementara itu, Apple's App-Site Association (ASA) adalah kerangka teknologi yang diperkenalkan oleh Apple yang memungkinkan integrasi yang mulus antara aplikasi iOS dan situs web. ASA memungkinkan pengembang untuk menghubungkan aplikasi iOS mereka dengan situs web atau aplikasi web mereka melalui penggunaan universal links.
 
     Jadi, meskipun keduanya berhubungan dengan pengaturan situs web, file robots.txt berkaitan dengan instruksi untuk perayap web (crawlers), sedangkan ASA berkaitan dengan integrasi aplikasi iOS dan situs web.
+
+ 
+
+
+
