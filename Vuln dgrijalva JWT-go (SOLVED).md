@@ -124,3 +124,6 @@ Setelah melakukan migrasi, jalankan pengujian untuk memastikan bahwa token JWT b
 ## Kesimpulan
 
 Dengan bermigrasi dari `github.com/dgrijalva/jwt-go` ke `github.com/golang-jwt/jwt/v4`, Anda telah mengatasi kerentanan keamanan yang memungkinkan bypass otorisasi. Proses ini memastikan aplikasi Anda tetap aman dari potensi eksploitasi yang terkait dengan JWT. Pastikan untuk selalu menjaga dependensi proyek tetap mutakhir dan mengikuti best practice keamanan.
+
+![image](https://github.com/user-attachments/assets/fa49bbb4-dda5-4dfc-a5b3-3c32bbc5e20a)
+
