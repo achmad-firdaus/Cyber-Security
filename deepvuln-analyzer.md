@@ -1,5 +1,16 @@
 # 📄 Dokumentasi: CVE Embedding Search & DeepSeek Analyzer
 
+## 🙏 Thanks to
+Ucapan terima kasih yang sebesar-besarnya kepada para sepuh, atas ide-ide visioner, wawasan teknikal yang tajam. Kontribusi dan arahan beliau memainkan peran krusial dalam membentuk proyek ini menjadi seperti sekarang.
+
+📇 **LinkedIn:**
+- [Rifqi HZ](https://www.linkedin.com/in/rifqihz/)
+- [Riyan Firmansyah](https://www.linkedin.com/in/riyanfirmansyah/)
+- [Harry Adinanta](https://www.linkedin.com/in/harryadinanta/)
+- [Arif D](https://www.linkedin.com/in/arifd/)
+
+
+
 ## 📊 Arsitektur / Diagram Alur
 ![image](https://github.com/user-attachments/assets/c6ecec4e-37a0-4073-915b-ebe0aa81aa0c)
 
